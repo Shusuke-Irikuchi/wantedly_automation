@@ -9,4 +9,3 @@ RUN  pip3 install selenium
 RUN  pip3 install slacker
 RUN  pip3 install google-cloud-storage
 RUN  pip3 install pandas-gbq
-RUN  pip3 install random
