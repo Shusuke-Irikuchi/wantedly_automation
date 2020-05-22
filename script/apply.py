@@ -77,8 +77,8 @@ if __name__ == '__main__':
 
     finally:
         # 終了
-        browser.close()
-        browser.quit()
+        driver.close()
+        driver.quit()
 
         for num in apply_id:
             print(num)
